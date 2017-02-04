@@ -1,6 +1,5 @@
 import webbrowser
 
-
 class movies:
     """Base Class"""
     def __init__(self, movie_title, poster_image,
